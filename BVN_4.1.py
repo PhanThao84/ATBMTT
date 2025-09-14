@@ -15,4 +15,4 @@ def mahoa(plaintext, k):
 plaintext = input("Nhập Plaintext: ")
 k = int(input("Nhập khóa k: "))
 KETQUA= mahoa(plaintext, k)
-print("Ciphertext:", KETQUA)
+print("Mã hoá:", KETQUA)
